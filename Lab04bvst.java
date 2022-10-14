@@ -77,6 +77,8 @@ public class Lab04bvst extends Applet
         g.drawOval(525,100,200,150);
         g.drawOval(575,75,100,200);
         g.drawOval(550,75,150,200);
+
+        //:)
     }
 
 }
